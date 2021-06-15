@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.8 20.8">
+    <defs>
+        <style>.cls-1{fill:#fee2d3;}.cls-2{fill:none;stroke:#f87023;stroke-miterlimit:10;}</style>
+    </defs>
+    <title>자산 3</title>
+    <g id="레이어_2" data-name="레이어 2">
+        <g id="레이어_1-2" data-name="레이어 1">
+            <circle class="cls-1" cx="10.4" cy="10.4" r="10.4" />
+            <line class="cls-2" x1="6.24" y1="14.56" x2="14.56" y2="6.24" />
+            <line class="cls-2" x1="6.24" y1="6.24" x2="14.56" y2="14.56" />
+        </g>
+    </g>
+</svg>

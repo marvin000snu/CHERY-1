@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+  <string name="app_name">swaApp</string>
+  <string name="kakao_app_key">0684fe0c63bf45f2fb0b5f3e4644e750</string>
+  <string moduleConfig="true" name="CodePushDeploymentKey">dyV0-ha_wvBrGWKiIQp_v3WdAHKbtQ0NYM_w7</string>
+</resources>

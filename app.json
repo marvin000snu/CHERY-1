@@ -1,0 +1,9 @@
+{
+  "android": {
+    "package": "com.mise.swa",
+    "name": "swaApp"
+  },
+  "ios": {
+    "bundleIdentifier": "com.mise.swa"
+  }
+}
